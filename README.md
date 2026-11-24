@@ -348,6 +348,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
 
 <br />
+- <img src="https://cdn.simpleicons.org/tether/50AF95" height="14"/> [PayGate USDT](https://github.com/EzeLich/paygate-usdt) - Non-custodial 6-chain USDT/USDC payment gateway, recurring SaaS subscriptions, HMAC-SHA256 webhooks, and x402 paywall MCP server.
 
 ## 🧬 <a name="research-data"></a>Research & Data
 
@@ -462,6 +463,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
 
 <br />
+- <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" height="14"/> [ChainGuard MCP](https://github.com/EzeLich/chainguard-mcp) - 15-tool Web3 security firewall, EIP-7702 delegation hijack detector, Solana Token-2022 auditor, ERC-20 allowance revoker, and multi-chain dust consolidation MCP server.
 
 ## 🔌 <a name="iot"></a>IoT
 
